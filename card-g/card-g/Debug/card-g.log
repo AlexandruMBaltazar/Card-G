@@ -1,0 +1,32 @@
+﻿  pch.cpp
+  Board.cpp
+  card-g.cpp
+  Card.cpp
+  CardFactory.cpp
+  Deck.cpp
+  EnhancePowerCard.cpp
+  HumanPlayer.cpp
+c:\year 2 - object oriented systems\card-g\card-g\card-g\humanplayer.cpp(16): warning C4018: '>': signed/unsigned mismatch
+c:\year 2 - object oriented systems\card-g\card-g\card-g\humanplayer.cpp(35): warning C4018: '>': signed/unsigned mismatch
+  LogFileWriter.cpp
+  Match.cpp
+c:\year 2 - object oriented systems\card-g\card-g\card-g\match.cpp(173): warning C4101: 'msg': unreferenced local variable
+c:\year 2 - object oriented systems\card-g\card-g\card-g\match.cpp(221): warning C4101: 'msg': unreferenced local variable
+  Observer.cpp
+  Player.cpp
+  PowerCard.cpp
+  PowerCardDecrease.cpp
+  PowerCardIncrease.cpp
+  RandomCardFactory.cpp
+c:\year 2 - object oriented systems\card-g\card-g\card-g\randomcardfactory.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\year 2 - object oriented systems\card-g\card-g\card-g\randomcardfactory.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  RandomGenerator.cpp
+  StealCard.cpp
+  ThiefCatcherCard.cpp
+c:\year 2 - object oriented systems\card-g\card-g\card-g\thiefcatchercard.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  VirtualPlayer.cpp
+c:\year 2 - object oriented systems\card-g\card-g\card-g\virtualplayer.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\year 2 - object oriented systems\card-g\card-g\card-g\virtualplayer.cpp(51): warning C4101: 'itr': unreferenced local variable
+  Generating Code...
+  LINK : C:\Year 2 - Object Oriented Systems\card-g\card-g\Debug\card-g.exe not found or not built by the last incremental link; performing full link
+  card-g.vcxproj -> C:\Year 2 - Object Oriented Systems\card-g\card-g\Debug\card-g.exe

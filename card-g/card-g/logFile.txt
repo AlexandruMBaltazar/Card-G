@@ -1,0 +1,1218 @@
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Decrease : 2
+Power Card Decrease : 3
+Power Card Increase : 3
+Power Card Increase : 2
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Power Card Increase : 3
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Decrease : 2
+Power Card Decrease : 3
+Power Card Increase : 3
+Power Card Increase : 2
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Thief Catcher Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+It's a tie
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+============== TURN END =============
+It's a tie
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Thief Catcher Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Thief Catcher Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 1
+Steal Card
+Steal Card
+Power Card Increase : 2
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Increase : 2
+Power Card Increase : 1
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 3
+Steal Card
+Power Card Increase : 2
+Power Card Increase : 2
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Increase : 3
+Power Card Increase : 1
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 3
+Power Card Increase : 2
+Power Card Increase : 2
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 2
+Power Card Increase : 1
+Steal Card
+Power Card Increase : 1
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Increase : 2
+Power Card Increase : 2
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 2
+Power Card Increase : 1
+Power Card Increase : 1
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+Power Card Increase : 1
+Steal Card
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Increase : 2
+Power Card Increase : 3
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+Steal Card
+Steal Card
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+Power Card Increase : 3
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 2
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+EnhancePowerCard
+Power Card Decrease : 3
+Power Card Increase : 3
+Power Card Decrease : 2
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+EnhancePowerCard
+Thief Catcher Card
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 3
+Power Card Decrease : 2
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+EnhancePowerCard
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 3
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 3
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 6
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 8
+Card Played: EnhancePowerCard
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 8
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Thief Catcher Card
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 8
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+EnhancePowerCard
+Steal Card
+Power Card Decrease : 1
+Power Card Decrease : 3
+Thief Catcher Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 1
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+EnhancePowerCard
+Steal Card
+Power Card Decrease : 1
+Power Card Decrease : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+EnhancePowerCard
+Steal Card
+Power Card Decrease : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+EnhancePowerCard
+Steal Card
+Power Card Decrease : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 5
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 1
+Cards In Hand: 
+EnhancePowerCard
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: Steal Card
+Cards In Hand: 
+============== TURN END =============
+Winner is human player
+Final Score: 4
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+============== TURN END =============
+Winner is human player
+Final Score: 4
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+Thief Catcher Card
+EnhancePowerCard
+Power Card Increase : 1
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Power Card Decrease : 1
+Power Card Increase : 3
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+Thief Catcher Card
+EnhancePowerCard
+Power Card Increase : 1
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 1
+Power Card Decrease : 1
+Steal Card
+Steal Card
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Power Card Decrease : 1
+Steal Card
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 2
+Steal Card
+Power Card Decrease : 3
+Power Card Decrease : 3
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Thief Catcher Card
+EnhancePowerCard
+Power Card Decrease : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+Power Card Increase : 2
+Steal Card
+Power Card Decrease : 3
+Power Card Decrease : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Thief Catcher Card
+Power Card Decrease : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 5
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+Steal Card
+Power Card Decrease : 3
+Power Card Decrease : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Decrease : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 5
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+Power Card Decrease : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 1
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 4
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 4
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 1
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 4
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+EnhancePowerCard
+EnhancePowerCard
+Power Card Decrease : 3
+Power Card Increase : 3
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 3
+Thief Catcher Card
+Power Card Decrease : 2
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+EnhancePowerCard
+EnhancePowerCard
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+Power Card Increase : 3
+Thief Catcher Card
+Power Card Decrease : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+Thief Catcher Card
+Power Card Decrease : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Decrease : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 4
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+============== TURN END =============
+Winner is human player
+Final Score: 4
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+EnhancePowerCard
+Power Card Increase : 1
+Power Card Decrease : 2
+Power Card Decrease : 3
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+EnhancePowerCard
+Power Card Decrease : 1
+Power Card Decrease : 3
+Steal Card
+Power Card Increase : 3
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Decrease : 1
+Steal Card
+Power Card Increase : 3
+Power Card Decrease : 2
+Power Card Increase : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Power Card Increase : 3
+Power Card Increase : 2
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 2
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+Power Card Decrease : 3
+EnhancePowerCard
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Power Card Increase : 3
+Cards In Hand: 
+Steal Card
+Power Card Increase : 2
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: EnhancePowerCard
+Cards In Hand: 
+Power Card Decrease : 3
+Steal Card
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Increase : 2
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 2
+Card Played: Power Card Increase : 2
+Cards In Hand: 
+Steal Card
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 3
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 4
+Card Played: Steal Card
+Cards In Hand: 
+Steal Card
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 5
+Card Played: Steal Card
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 5
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 3
+Card Played: Power Card Decrease : 3
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 5
+============== GAME OVER =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Steal Card
+Cards In Hand: 
+Power Card Decrease : 1
+Power Card Increase : 1
+Power Card Decrease : 2
+Power Card Decrease : 1
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+Thief Catcher Card
+Power Card Decrease : 2
+Power Card Increase : 1
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+Power Card Decrease : 1
+Power Card Decrease : 2
+Power Card Decrease : 1
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 1
+Card Played: Power Card Increase : 1
+Cards In Hand: 
+Thief Catcher Card
+Power Card Decrease : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+Power Card Decrease : 1
+Power Card Decrease : 1
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Thief Catcher Card
+Cards In Hand: 
+Power Card Decrease : 2
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: Power Card Decrease : 1
+Cards In Hand: 
+Power Card Decrease : 1
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 0
+Card Played: Power Card Decrease : 1
+Cards In Hand: 
+EnhancePowerCard
+============== TURN END =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+============== TURN END =============
+Player in charge: Virtual Player
+Current Power: 1
+Card Played: EnhancePowerCard
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 1
+============== GAME OVER =============
+Player in charge: Human Player
+Current Power: 0
+Card Played: Power Card Decrease : 2
+Cards In Hand: 
+============== TURN END =============
+Winner is virtual player
+Final Score: 1
+============== GAME OVER =============
