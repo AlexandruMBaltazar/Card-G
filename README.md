@@ -1,2 +1,2 @@
 # Card-G
-CLI Card Game (C/C++)
+CLI Card Game developed in C/C++ using design patterns
